@@ -1,0 +1,14 @@
+Week 2 Assignment: Simple Bill Calculator
+Description
+Ask the user for the price of one item and the quantity they want (use input()).
+Remember input() returns a string — convert the values with float() / int().
+Calculate the total.
+Print a friendly summary using an f-string, e.g. "3 items at 50.00 each = 150.00".
+Build an interactive program that takes user input, does a calculation, and shows a neat result using an f-string.
+
+
+
+Submission Criteria
+Create a new github repository for python week 1 assignment
+Upload the code for the assignment to github
+Submit the github repository link to us
